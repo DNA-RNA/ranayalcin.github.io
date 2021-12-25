@@ -12,7 +12,7 @@ html{
 }
 /* Home */
 #home{
-    background-image: url(/images/home-background.jpg);
+    background-image: url(images/home-background.jpg);
     background-size: cover;
     
 
@@ -20,7 +20,7 @@ html{
 }
 /* Introduction */
 #introduction{
-    background-image: url(/images/introduction-background.jpg);
+    background-image: url(images/introduction-background.jpg);
     background-size: cover;
 }
 
