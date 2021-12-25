@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: aliceblue
+}
+html{
+    font-family: "Open Sans",sans-serif;
+}
+/* Home */
+#home{
+    background-image: url(../images/home-background.jpg);
+    background-size: cover;
+    
+
+   
+}
+/* Introduction */
+#introduction{
+    background-image: url(../images/introduction-background.jpg);
+    background-size: cover;
+}
+
+#footer{
+    background-color: #754407e1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
