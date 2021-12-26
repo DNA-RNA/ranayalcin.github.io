@@ -25,11 +25,11 @@
     padding: 1rem;
 }
 #araclar .images{
-    position:absolute;
-    width: 90%;
+   position:absolute;
+    width: 50%;
     display: grid;
     top: 20%;
-    left: 5%;
+    left: 25%;
     justify-content: center;
     grid-template-columns: repeat(auto-fit,300px);
     gap: 10px;
